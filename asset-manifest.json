@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TRYAPIS/static/css/main.4bfe08ed.css",
+    "main.js": "/TRYAPIS/static/js/main.82f2161d.js",
+    "static/js/787.994d1aa0.chunk.js": "/TRYAPIS/static/js/787.994d1aa0.chunk.js",
+    "index.html": "/TRYAPIS/index.html",
+    "main.4bfe08ed.css.map": "/TRYAPIS/static/css/main.4bfe08ed.css.map",
+    "main.82f2161d.js.map": "/TRYAPIS/static/js/main.82f2161d.js.map",
+    "787.994d1aa0.chunk.js.map": "/TRYAPIS/static/js/787.994d1aa0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4bfe08ed.css",
+    "static/js/main.82f2161d.js"
+  ]
+}
