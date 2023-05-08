@@ -1,0 +1,22 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: column;
+  }
+  
+  .card {
+    flex: 1 1 calc(50% - 10px);
+    margin: 10px;
+    padding: 10px;
+    background: rgb(227,174,238);
+    background: radial-gradient(circle, rgba(227,174,238,1) 0%, rgba(148,160,233,1) 100%);
+    text-align: center;
+  }
+  .description{
+    background: rgb(227,174,238);
+background: radial-gradient(circle, rgba(227,174,238,1) 0%, rgba(148,160,233,1) 100%);
+  }
+  
+  
+  
